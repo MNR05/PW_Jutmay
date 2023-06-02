@@ -119,7 +119,8 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
-/*Telecom*/
+/*
+//Telecom
 var multipleCardCarousel = document.querySelector(
     "#carouselExampleControls"
   );
@@ -151,7 +152,7 @@ var multipleCardCarousel = document.querySelector(
   } else {
     $(multipleCardCarousel).addClass("slide");
   }
-/*S_E*/
+//S_E
 var multipleCardCarousel = document.querySelector(
     "#carouselExampleControls1"
   );
@@ -216,7 +217,7 @@ var multipleCardCarousel = document.querySelector(
     $(multipleCardCarousel).addClass("slide");
   }
 
-  /*CLI_REF */
+  //CLI_REF 
 
   var multipleCardCarousel = document.querySelector(
     "#carouselExampleControls3"
@@ -250,7 +251,7 @@ var multipleCardCarousel = document.querySelector(
     $(multipleCardCarousel).addClass("slide");
   }
 
-  /*Con_gest*/
+  //Con_gest
 
   var multipleCardCarousel = document.querySelector(
     "#carouselExampleControls4"
@@ -283,7 +284,7 @@ var multipleCardCarousel = document.querySelector(
   } else {
     $(multipleCardCarousel).addClass("slide");
   }
-
+*/
 
 
 
