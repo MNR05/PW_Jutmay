@@ -1853,20 +1853,25 @@ ul.img_icon li {
 }*/
 
 .container1 {
-     max-width: 1400px;
+     max-width: 1200px;
      width: 100%;
      padding: 60px 0;
+     
    }
-   .slide-container {
+   .slide-container1, .slide-container2, .slide-container3, .slide-container4, .slide-container5{
      margin: 0 30px;
      overflow: hidden;
    }
    .card {
      background: #fff;
      border-radius: 8px;
+     
    }
    .card .image-box {
-     height: 700px;
+     
+     min-height: 428px;
+     min-width: 428px;
+     
    }
    .card .image-box img {
      width: 100%;
