@@ -1853,9 +1853,9 @@ ul.img_icon li {
 }*/
 
 .container1 {
-     max-width: 1200px;
+     max-width: 1350px;
      width: 100%;
-     padding: 60px 0;
+     padding: 20px 0;
      
    }
    .slide-container1, .slide-container2, .slide-container3, .slide-container4, .slide-container5{
@@ -1869,8 +1869,9 @@ ul.img_icon li {
    }
    .card .image-box {
      
-     min-height: 428px;
-     min-width: 428px;
+     height: 800px;
+     width: auto;
+     
      
    }
    .card .image-box img {
